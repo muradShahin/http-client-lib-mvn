@@ -1,3 +1,4 @@
+https://github.com/muradShahin/http-client-lib-mvn/packages/2505537
 # http-client-lib-mvn
 
 A lightweight, reusable **Spring Boot** library that provides an HTTP client abstraction using `RestTemplate`. Ideal for integrating consistent RESTful API calls across multiple Spring Boot services.
